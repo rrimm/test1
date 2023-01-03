@@ -1,0 +1,21 @@
+package max4;
+
+import java.util.Scanner;
+
+public class max4 {
+
+	public static void main(String[] args) {
+		static int max4(int a, int b, int c, int d) {
+			int max = a;
+			if(b> max) b=max;
+			if(c> max) c=max;
+			if(d> max) d=max;
+			
+			System.out.println("최댓값은 "+max+"입니다.");
+		}
+		
+		
+
+	}
+
+}

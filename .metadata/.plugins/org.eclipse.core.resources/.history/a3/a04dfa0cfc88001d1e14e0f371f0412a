@@ -1,0 +1,21 @@
+package max4;
+
+import java.util.Scanner;
+
+public class max4 {
+
+	public static void main(String[] args) {
+		static int max4(int a, int b, int c, int d) {
+			
+			if(b> max) max=b;
+			if(c> max) max=c;
+			if(d> max) max=d;
+			
+			return max4;
+		}
+		
+		
+
+	}
+
+}
